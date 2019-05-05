@@ -30,7 +30,6 @@ The hardest is to figure out how to connect the parts together. There was an une
 
 ## Completed Work
 
-Upload photos and videos of your completed final project!
 
 ## References and links
 
