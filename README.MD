@@ -9,12 +9,12 @@ This program could use at a library or an environment that require less sound. I
 
 ## Component Parts
 
-5 5mm LED 
-5 270 Ω Resistors
-1 Breadboard
-Arduino Uno
-sound sensor
-Jumper wire 
+5 5mm LED, 
+5 270 Ω Resistors, 
+1 Breadboard, 
+Arduino Uno, 
+sound sensor, 
+Jumper wire,  
 
 ## Timeline
 
@@ -34,5 +34,5 @@ Upload photos and videos of your completed final project!
 
 ## References and links
 
-https://www.princetronics.com/sound-sensitive-lights-w-sound-sensor-arduino/
+https://www.princetronics.com/sound-sensitive-lights-w-sound-sensor-arduino/,  
 https://www.youtube.com/watch?v=RwHGioglbk8
