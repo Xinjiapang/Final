@@ -21,7 +21,7 @@ This program could use at a library or an environment that require less sound. I
 Arduino Uno 
 ![Arduino Uno](https://user-images.githubusercontent.com/47263250/57192885-4923db00-6eea-11e9-9b2a-9a0bc0642263.jpg)
 
-sound sensor 
+sound sensor  
 ![sound sensor](https://user-images.githubusercontent.com/47263250/57192890-635db900-6eea-11e9-9028-b1d66f01921a.jpg)
 
 Jumper wire 
