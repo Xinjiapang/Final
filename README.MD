@@ -27,6 +27,7 @@ sound sensor
 Jumper wire 
 ![Jumper wire](https://user-images.githubusercontent.com/47263250/57192888-55a83380-6eea-11e9-962e-0662446af383.jpg)
 
+
 ## Timeline
 
 - Week 0: Write Proposal
