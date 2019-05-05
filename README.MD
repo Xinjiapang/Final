@@ -42,6 +42,7 @@ The hardest is to figure out how to connect the parts together. There was an une
 
 ## Completed Work
 
+https://github.com/Xinjiapang/Final/blob/master/Final.mp4
 
 ## References and links
 
