@@ -9,12 +9,23 @@ This program could use at a library or an environment that require less sound. I
 
 ## Component Parts
 
-5 5mm LED, 
-5 270 Ω Resistors, 
-1 Breadboard, 
-Arduino Uno, 
-sound sensor, 
-Jumper wire,  
+5 5mm LED 
+![5mm LEDS](https://user-images.githubusercontent.com/47263250/57192864-1f6ab400-6eea-11e9-9992-921237c34624.jpg)
+
+5 270 Ω Resistors 
+![270 Ω Resistors](https://user-images.githubusercontent.com/47263250/57192873-2ee9fd00-6eea-11e9-9220-f5ee72ffb1df.jpg)
+
+1 Breadboard
+![Breadboard](https://user-images.githubusercontent.com/47263250/57192881-3d381900-6eea-11e9-93cc-b986d72fb4e7.jpg)
+
+Arduino Uno 
+![Arduino Uno](https://user-images.githubusercontent.com/47263250/57192885-4923db00-6eea-11e9-9b2a-9a0bc0642263.jpg)
+
+sound sensor 
+![sound sensor](https://user-images.githubusercontent.com/47263250/57192890-635db900-6eea-11e9-9028-b1d66f01921a.jpg)
+
+Jumper wire 
+![Jumper wire](https://user-images.githubusercontent.com/47263250/57192888-55a83380-6eea-11e9-962e-0662446af383.jpg)
 
 ## Timeline
 
